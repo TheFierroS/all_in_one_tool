@@ -1,8 +1,13 @@
 THEFIERROS ALL IN ONE TOOL
 
-1 - Port Scanner\n
-2 - DDOS\n
-3 - HASH MAKER\n
-4 - NMAP\n
-5 - WHOIS\n
-6 - PASSWORD GENERATOR\n
+1 - Port Scanner
+
+2 - DDOS
+
+3 - HASH MAKER
+
+4 - NMAP
+
+5 - WHOIS
+
+6 - PASSWORD GENERATOR
